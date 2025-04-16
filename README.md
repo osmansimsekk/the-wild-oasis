@@ -3,8 +3,8 @@
 The Wild Oasis admin panel is designed to enable bungalow site administrators to easily manage reservations, customer information, and site operations. The project offers a modern and user-friendly interface.
 
 # Website Link
-https://the-wild-oasis-app-osman.netlify.app
 
+https://the-wild-oasis-osman.netlify.app/login
 # Features
 Reservation Management: 
 View, edit, and cancel all reservations.
